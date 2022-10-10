@@ -1,0 +1,21 @@
+/*Challenge: Créer le CSS suivant
+ couleur: gris léger
+ fond-écran: gris
+ largeur:300px
+ marge en haut :50px
+ centré 
+ */
+ 
+ .carte {
+   color: lightgra;
+ background: gray;
+ width:300px;
+ margin-top :50px;
+ margin-left:auto;   
+ margin-right:auto; 
+ 
+ padding:50px;
+      
+     
+ }
+
